@@ -1,6 +1,6 @@
 - Xpl-SHELLSHOCK-Ch3ck
 ------
-The tool inject a malicious user agent that allows exploring the vulnerabildiade   sheelshock running server-side commands.
+The tool inject a malicious user agent that allows exploring the vulnerabildiade   sheellshock running server-side commands.
 
 ```
   # SCRIPT by:     [ I N U R L  -  B R A S I L ] - [ By GoogleINURL ]
