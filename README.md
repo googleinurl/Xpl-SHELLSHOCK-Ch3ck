@@ -3,7 +3,7 @@
 The tool inject a malicious user agent that allows exploring the vulnerabildiade   sheelshock running server-side commands.
 
 ```
-  # SCRIPT by: [ I N U R L  -  B R A S I L ] - [ By GoogleINURL ]
+  # SCRIPT by:     [ I N U R L  -  B R A S I L ] - [ By GoogleINURL ]
   # EXPLOIT NAME:  Xpl SHELLSHOCK Ch3ck Tool - (MASS)/ INURL BRASIL
   # AUTOR:         Cleiton Pinheiro / Nick: googleINURL
   # Email:         inurlbr@gmail.com
@@ -15,7 +15,7 @@ The tool inject a malicious user agent that allows exploring the vulnerabildiade
   # PSS:           http://packetstormsecurity.com/user/googleinurl
   # YOUTUBE:       http://youtube.com/c/INURLBrasil
   # PLUS:          http://google.com/+INURLBrasil
-  ```
+```
   
 - DESCRIPTION - VULNERABILITY(SHELLSHOCK)
 ------
@@ -38,7 +38,7 @@ sheelshock running server-side commands.
 ------
 ```
 sudo apt-get install php5 php5-cli php5-curl
-``
+```
 
  - Execute:
 ------
