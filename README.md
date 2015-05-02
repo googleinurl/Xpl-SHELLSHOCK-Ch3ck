@@ -30,7 +30,7 @@ to run remote commands on a vulnerable system.
 - DESCRIPTION - TOOL
 ------
 ```
-The tool inject a malicious user agent that allows exploring the vulnerabildiade
+The tool inject a malicious user agent that allows exploring the vulnerability
 sheelshock running server-side commands.
 ``` 
 
